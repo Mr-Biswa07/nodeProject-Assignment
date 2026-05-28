@@ -4,4 +4,5 @@ let a = 10;
 let b = 20;
 
 console.log("Addition:", a + b);
-console.log("Webhook triggers successful");
+console.log("Webhook Triggers successful");
+
